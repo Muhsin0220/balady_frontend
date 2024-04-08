@@ -1,0 +1,1 @@
+window.apiEndPoint="https://balady-gov-sa.com/api/"
